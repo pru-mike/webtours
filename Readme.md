@@ -11,4 +11,5 @@ Web tours
 $ git clone https://github.com/pru-mike/webtours
 $ cd webtours
 $ docker-compose up
+$ open http://localhost:8095
 ```
