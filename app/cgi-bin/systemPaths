@@ -4,7 +4,7 @@
 #
 
 $pageBase = "/WebTours";
-$imageBase = "/images";
+$imageBase = "/WebTours/images";
 $scriptBase = "/cgi-bin";
 
 
